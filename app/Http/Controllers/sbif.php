@@ -35,7 +35,7 @@ class sbif extends Controller {
         if (isset($data->UFs)) {
             $data = $data->UFs;
         } else {
-            $data = array()
+            $data = array();
                     
                     
         }
